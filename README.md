@@ -13,6 +13,7 @@
 ## 主題
 
 * [微調腳本](#微調腳本)
+* [按鍵綁定](#按鍵綁定)
 * [相關筆記](#相關筆記)
 
 
@@ -23,6 +24,16 @@
 | 微調腳本 |
 | --- |
 | [endeavouros-kde-plasma-adjustment](https://github.com/samwhelp/endeavouros-kde-plasma-adjustment/tree/main/prototype/main) |
+
+
+
+
+## 按鍵綁定
+
+| 按鍵綁定 |
+| --- |
+| [鍵盤按鍵綁定](https://samwhelp.github.io/note-about-endeavouros-kde-plasma/read/config/keybind.html) |
+| [滑鼠按鍵綁定](https://samwhelp.github.io/note-about-endeavouros-kde-plasma/read/config/mousebind.html) |
 
 
 
