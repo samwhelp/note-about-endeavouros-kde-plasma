@@ -9,9 +9,13 @@ parent: 如何
 # 停用按鍵綁定「Super_L」開啟「Main Menu」
 
 
+
+
 ## 參考文章
 
 * Arch Wiki / KDE / [Disable opening application launcher with Super key (Windows key)](https://wiki.archlinux.org/title/KDE#Disable_opening_application_launcher_with_Super_key_(Windows_key))
+
+
 
 
 ## 設定檔
@@ -19,6 +23,8 @@ parent: 如何
 | 設定檔路徑 |
 | --- |
 | [~/.config/kwinrc](https://github.com/samwhelp/endeavouros-kde-plasma-adjustment/blob/main/prototype/main/kde-config/locale/en_us/Breeze-Dark/asset/overlay/etc/skel/.config/kwinrc#L43-L44) |
+
+
 
 
 ## 設定片段
@@ -36,6 +42,8 @@ Meta=org.kde.plasmashell,/PlasmaShell,org.kde.PlasmaShell,activateLauncherMenu
 [ModifierOnlyShortcuts]
 Meta=
 ```
+
+
 
 
 ## 操作指令
