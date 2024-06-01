@@ -50,11 +50,11 @@ parent: 如何
 
 這個設定的「預設值」是「`Meta`」。
 
-若是將「設定值」改成「`Alt`」，按下「Apply」這個按鈕
+若是將「設定值」改成「`Alt`」，按下「Apply」這個按鈕，
 
 這個「設定值」會被儲存在「[~/.config/kwinrc](https://github.com/samwhelp/endeavouros-kde-plasma-adjustment/blob/main/prototype/main/kde-config/locale/en_us/Breeze-Dark/asset/overlay/etc/skel/.config/kwinrc#L46-L47)」這個檔案。
 
-設定片段如下
+設定片段如下：
 
 ``` ini
 [MouseBindings]
@@ -68,7 +68,7 @@ CommandAllKey=Alt
 
 所以我們若要手動修改「[~/.config/kwinrc](https://github.com/samwhelp/endeavouros-kde-plasma-adjustment/blob/main/prototype/main/kde-config/locale/en_us/Breeze-Dark/asset/overlay/etc/skel/.config/kwinrc#L46-L47)」這個檔案。
 
-要將「設定值」改成「`Meta`」，設定片段如下
+要將「設定值」改成「`Meta`」，設定片段如下：
 
 ``` ini
 [MouseBindings]
@@ -82,7 +82,7 @@ CommandAllKey=Alt
 
 在設定區塊「Inner Window, Titlebar and Frame Actions」，
 
-除了「`Modifier Key:`」這個設定，還有下面幾個搭配的設定
+除了「`Modifier Key:`」這個設定，還有下面幾個搭配的設定：
 
 | 搭配設定           | 預設值                    ｜
 | ---------------- | ------------------------- |
