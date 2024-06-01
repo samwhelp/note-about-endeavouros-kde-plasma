@@ -63,12 +63,13 @@ CommandAllKey=Alt
 
 若是將「設定值」改成「`Meta`」，按下「Apply」這個按鈕，
 
-則「`CommandAllKey=`」那一行就會被刪除。
+則「`CommandAllKey=Alt`」那一行就會被刪除，也就是預設是「`Meta`」。
 
 
-所以我們若要手動修改「[~/.config/kwinrc](https://github.com/samwhelp/endeavouros-kde-plasma-adjustment/blob/main/prototype/main/kde-config/locale/en_us/Breeze-Dark/asset/overlay/etc/skel/.config/kwinrc#L46-L47)」這個檔案。
 
-要將「設定值」改成「`Meta`」，設定片段如下：
+我們也可以手動修改「[~/.config/kwinrc](https://github.com/samwhelp/endeavouros-kde-plasma-adjustment/blob/main/prototype/main/kde-config/locale/en_us/Breeze-Dark/asset/overlay/etc/skel/.config/kwinrc#L46-L47)」這個檔案。
+
+將「設定值」改成「`Meta`」，設定片段如下：
 
 ``` ini
 [MouseBindings]
