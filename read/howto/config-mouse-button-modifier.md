@@ -72,7 +72,7 @@ CommandAllKey=Alt
 
 ``` ini
 [MouseBindings]
-CommandAllKey=Alt
+CommandAllKey=Meta
 ```
 
 
