@@ -13,7 +13,7 @@ parent: 如何
 
 ## 期望功能
 
-我個人習慣[在視窗操作下面兩個動作](https://samwhelp.github.io/note-about-endeavouros-kde-plasma/read/config/mousebind.html#視窗內容區塊)，
+我個人習慣「[在視窗操作下面兩個動作](https://samwhelp.github.io/note-about-endeavouros-kde-plasma/read/config/mousebind.html#視窗內容區塊)」，
 
 | 滑鼠按鍵組合                |  功能                   |
 | --------------------------- | ----------------------- |
