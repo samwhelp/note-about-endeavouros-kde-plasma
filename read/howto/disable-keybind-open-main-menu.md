@@ -57,7 +57,7 @@ systemctl --user stop plasma-kglobalaccel.service
 執行下面指令，設定「~/.config/kwinrc」。
 
 ``` sh
-kwriteconfig5 --file kwinrc --group ModifierOnlyShortcuts --key Meta ""
+kwriteconfig6 --file kwinrc --group ModifierOnlyShortcuts --key Meta ""
 ```
 
 執行下面指令，接著把「plasma-kglobalaccel.service」啟動。
