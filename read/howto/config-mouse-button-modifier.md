@@ -104,7 +104,7 @@ CommandAllKey=Meta
 
 為了避免無謂的干擾，我會停用這個功能，
 
-請參考『[停用按鍵綁定「Super_L」開啟「Menu」](https://samwhelp.github.io/note-about-endeavouros-kde-plasma/read/howto/disable-keybind-open-menu.html)』這篇的說明。
+請參考『[停用按鍵綁定「Super_L」開啟「Menu」](https://samwhelp.github.io/note-about-endeavouros-kde-plasma/read/howto/disable-keybind-open-main-menu.html)』這篇的說明。
 
 
 
