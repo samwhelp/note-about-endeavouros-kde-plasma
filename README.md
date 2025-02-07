@@ -6,6 +6,7 @@
 | ---- | ------ |
 | [EndeavourOS Kde Plasma Adjustment](https://samwhelp.github.io/endeavouros-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/endeavouros-kde-plasma-adjustment) |
 | [EndeavourOS Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-endeavouros-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-endeavouros-kde-plasma) |
+| [EndeavourOS 探索筆記](https://samwhelp.github.io/note-about-endeavouros/) | [GitHub](https://github.com/samwhelp/note-about-endeavouros) |
 
 
 
@@ -64,7 +65,7 @@
 | Link | GitHub |
 | ---- | ------ |
 | [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling) |
-| [EndeavourOS 探索筆記](https://samwhelp.github.io/note-about-endeavouros/) | [GitHub](https://github.com/samwhelp/note-about-endeavouros) |
+| [CachyOS Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-cachyos-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-cachyos-kde-plasma) |
 | [Archlinux Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-archlinux-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-kde-plasma) |
 
 
