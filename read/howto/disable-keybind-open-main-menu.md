@@ -71,6 +71,9 @@ systemctl --user start plasma-kglobalaccel.service
 
 綁定「`Alt + F1`」或是「`Win + Space`」觸發「Main Menu」。
 
+編輯「`~/.config/kglobalshortcutsrc`」。
+
+
 > 舊版：[設定片段](https://github.com/samwhelp/endeavouros-kde-plasma-adjustment/blob/main/prototype/main/kde-config/locale/en_us/Breeze-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L270)
 
 ```
@@ -86,6 +89,22 @@ activate widget 3=Alt+F1\tMeta+Space,none,Activate Application Launcher Widget
 activate application launcher=Alt+F1\tMeta+Space,Meta\tAlt+F1,Activate Application Launcher
 ```
 
+
+> 關於「舊版」的「`activate widget 3=`」是根據「[~/.config/plasma-org.kde.plasma.desktop-appletsrc](https://github.com/samwhelp/endeavouros-kde-plasma-adjustment/blob/main/prototype/main/kde-config/locale/en_us/Breeze-Dark/asset/overlay/etc/skel/.config/plasma-org.kde.plasma.desktop-appletsrc#L68-L87)」
+
+```
+[Containments][2][Applets][3]
+immutability=1
+plugin=org.kde.plasma.kickoff
+
+
+[Containments][2][Applets][3][Configuration][Shortcuts]
+global=Alt+F1
+
+[Containments][2][Applets][3][Shortcuts]
+global=Alt+F1
+
+```
 
 
 
