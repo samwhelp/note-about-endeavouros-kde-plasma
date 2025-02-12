@@ -67,6 +67,8 @@ systemctl --user start plasma-kglobalaccel.service
 ```
 
 
+
+
 ## 指定新的按鍵綁定
 
 綁定「`Alt + F1`」或是「`Win + Space`」觸發「Main Menu」，
@@ -105,6 +107,7 @@ global=Alt+F1
 global=Alt+F1
 
 ```
+
 
 
 
