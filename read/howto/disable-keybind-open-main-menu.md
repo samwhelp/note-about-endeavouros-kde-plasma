@@ -95,6 +95,7 @@ activate application launcher=Alt+F1\tMeta+Space,Meta\tAlt+F1,Activate Applicati
 > 關於「舊版」的「`activate widget 3=`」是根據「[~/.config/plasma-org.kde.plasma.desktop-appletsrc](https://github.com/samwhelp/endeavouros-kde-plasma-adjustment/blob/main/prototype/main/kde-config/locale/en_us/Breeze-Dark/asset/overlay/etc/skel/.config/plasma-org.kde.plasma.desktop-appletsrc#L68-L87)」
 
 ```
+
 [Containments][2][Applets][3]
 immutability=1
 plugin=org.kde.plasma.kickoff
