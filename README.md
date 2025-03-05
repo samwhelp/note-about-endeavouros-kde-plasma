@@ -13,28 +13,14 @@
 
 ## 主題
 
-* [ISO](#iso)
 * [微調腳本](#微調腳本)
 * [按鍵綁定](#按鍵綁定)
 * [如何](#如何)
 * [字型](#字型)
 * [輸入法](#輸入法)
 * [佈景主題](#佈景主題)
+* [ISO](#iso)
 * [相關筆記](#相關筆記)
-
-
-
-
-## ISO
-
-
-### Build ISO
-
-| Build EndeavourOS ISO | GitHub |
-| --------------------- | ------ |
-| [endeavouros-live-build-config-using](https://samwhelp.github.io/endeavouros-live-build-config-using/) | [GitHub](https://github.com/samwhelp/endeavouros-live-build-config-using) |
-| [endeavouros-live-build-config-remix](https://samwhelp.github.io/endeavouros-live-build-config-remix/) | [GitHub](https://github.com/samwhelp/endeavouros-live-build-config-remix) |
-| [endeavouros-live-build-config-refactoring](https://samwhelp.github.io/endeavouros-live-build-config-refactoring/) | [GitHub](https://github.com/samwhelp/endeavouros-live-build-config-refactoring) |
 
 
 
@@ -92,6 +78,20 @@
 | 佈景主題 |
 | -------- |
 | [設定採用「GURB 佈景主題」](https://samwhelp.github.io/note-about-endeavouros/read/subject/grub.html) |
+
+
+
+
+## ISO
+
+
+### Build ISO
+
+| Build EndeavourOS ISO | GitHub |
+| --------------------- | ------ |
+| [endeavouros-live-build-config-using](https://samwhelp.github.io/endeavouros-live-build-config-using/) | [GitHub](https://github.com/samwhelp/endeavouros-live-build-config-using) |
+| [endeavouros-live-build-config-remix](https://samwhelp.github.io/endeavouros-live-build-config-remix/) | [GitHub](https://github.com/samwhelp/endeavouros-live-build-config-remix) |
+| [endeavouros-live-build-config-refactoring](https://samwhelp.github.io/endeavouros-live-build-config-refactoring/) | [GitHub](https://github.com/samwhelp/endeavouros-live-build-config-refactoring) |
 
 
 
