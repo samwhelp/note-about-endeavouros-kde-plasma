@@ -16,6 +16,7 @@
 * [微調腳本](#微調腳本)
 * [ISO](#iso)
 * [按鍵綁定](#按鍵綁定)
+* [輸入法](#輸入法)
 * [佈景主題](#佈景主題)
 * [如何](#如何)
 * [相關筆記](#相關筆記)
@@ -57,11 +58,20 @@
 
 
 
+## 輸入法
+
+| 中文輸入法 | 微調腳本 |
+| ---------- | -------- |
+| [新酷音輸入法](https://samwhelp.github.io/note-about-endeavouros/read/subject/input-method/fcitx5/module/fcitx5-chewing.html) | [微調腳本](https://github.com/samwhelp/endeavouros-adjustment/tree/main/prototype/main/im-config/fcitx5/fcitx5-chewing) |
+
+
+
+
 ## 佈景主題
 
 | 佈景主題 |
 | -------- |
-| [設定採用「GURB 佈景主題」](https://samwhelp.github.io/note-about-endeavouros-kde-plasma/read/subject/grub.html) |
+| [設定採用「GURB 佈景主題」](https://samwhelp.github.io/note-about-endeavouros/read/subject/grub.html) |
 
 
 
