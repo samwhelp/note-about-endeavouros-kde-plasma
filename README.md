@@ -100,9 +100,14 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling) |
-| [CachyOS Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-cachyos-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-cachyos-kde-plasma) |
+| [Kde 探索筆記](https://samwhelp.github.io/note-about-kde/) | [GitHub](https://github.com/samwhelp/note-about-kde) |
+| [Kde Neon 探索筆記](https://samwhelp.github.io/note-about-kde-neon/) | [GitHub](https://github.com/samwhelp/note-about-kde-neon) |
+| [Kubuntu 探索筆記](https://samwhelp.github.io/note-about-kubuntu/) | [GitHub](https://github.com/samwhelp/note-about-kubuntu) |
 | [Archlinux Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-archlinux-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-kde-plasma) |
+| [CachyOS Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-cachyos-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-cachyos-kde-plasma) |
+| [Manjaro Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-manjaro-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-manjaro-kde-plasma) |
+| [Debian Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-debian-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-debian-kde-plasma) |
+| [Fedora Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-fedora-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-fedora-kde-plasma) |
 
 
 
